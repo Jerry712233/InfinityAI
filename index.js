@@ -1,7 +1,7 @@
 const sessionName = "escalibud";
-const autobio = process.env.AUTOBIO || 'TRUE';
-const owner = process.env.FOR_NOTIFICATION || '923166234989';
- const kresswell = "923166234989@s.whatsapp.net";
+const autobio = process.env.AUTOBIO || 'FALSE';
+const owner = process.env.FOR_NOTIFICATION || '27656319889';
+ const kresswell = "27656319889@s.whatsapp.net";
 const {
   default: escalibudConnect,
   useMultiFileAuthState,
